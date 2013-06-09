@@ -13,6 +13,11 @@ Requirements
 6. Bulb
 7. Buzzer
 8. LED's
-9. Power Supply
+9. USB Power Supply
 
 
+Snapshots
+---------
+
+Video
+-----
