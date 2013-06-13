@@ -69,16 +69,17 @@ AGND| GND
 
 Flow Chart
 ----------
-<img src = "https://raw.github.com/Pyros2097/RemoteMonitor/master/flow1.png" width="480" height="320">
-<img src = "https://raw.github.com/Pyros2097/RemoteMonitor/master/flow2.png" width="480" height="320">
-<img src = "https://raw.github.com/Pyros2097/RemoteMonitor/master/flow3.png" width="480" height="320">
+<img src = "https://raw.github.com/Pyros2097/RemoteMonitor/master/flow1.png" width="480" height="640">
+<img src = "https://raw.github.com/Pyros2097/RemoteMonitor/master/flow2.png" width="480" height="640">
+<img src = "https://raw.github.com/Pyros2097/RemoteMonitor/master/flow3.png" width="480" height="640">
 
 Snapshots
 ---------
-<img src = "https://raw.github.com/Pyros2097/RemoteMonitor/master/snap.png" width="480" height="320">
+<img src = "https://raw.github.com/Pyros2097/RemoteMonitor/master/snap.png" width="480" height="640">
 <img src = "https://raw.github.com/Pyros2097/RemoteMonitor/master/IMG_20130609_195037.jpg" width="480" height="320">
 <img src = "https://raw.github.com/Pyros2097/RemoteMonitor/master/IMG_20130609_195751.jpg" width="480" height="320">
 <img src = "https://raw.github.com/Pyros2097/RemoteMonitor/master/IMG_20130609_195739.jpg" width="480" height="320">
+
 <img src = "https://raw.github.com/Pyros2097/RemoteMonitor/master/Screenshot_2013-06-07-20-33-12.png" width="200" height="320">
 <img src = "https://raw.github.com/Pyros2097/RemoteMonitor/master/Screenshot_2013-06-07-20-33-31.png" width="200" height="320">
 <img src = "https://raw.github.com/Pyros2097/RemoteMonitor/master/Screenshot_2013-06-09-21-22-02.png" width="200" height="320">
