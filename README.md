@@ -40,6 +40,53 @@ OPcodes
 - OFF
 - MOB
 
+Block Diagram
+-------------
+<img src = "https://raw.github.com/Pyros2097/RemoteMonitor//master/block.png" width="480" height="320">
+
+Schematic
+---------
+<img src = "https://raw.github.com/Pyros2097/RemoteMonitor//master/remotemonitor.png" width="480" height="320">
+
+Pin Configuration
+-----------------
+Pin No.
+Connection
+VIN
++5V
+AGND
+GND
+9
+TX
+10
+RX
+11
+BTN1
+12
+BTN2
+14
+LED1 (BLUE)
+15
+LED2 (RED)
+16
+LED2 (GREEN)
+17
+LM35 Output
+19
+Relay Input
+20
+SHT75 - DATA
+21
+SHT75 - CLK
+23
+Transistor Input
+
+Flow Chart
+----------
+<img src = "https://raw.github.com/Pyros2097/RemoteMonitor//master/flow1.png" width="480" height="320">
+<img src = "https://raw.github.com/Pyros2097/RemoteMonitor//master/flow2.png" width="480" height="320">
+<img src = "https://raw.github.com/Pyros2097/RemoteMonitor//master/flow3.png" width="480" height="320">
+
 Snapshots
 ---------
 <img src = "https://raw.github.com/Pyros2097/RemoteMonitor//master/snap.png" width="480" height="320">
